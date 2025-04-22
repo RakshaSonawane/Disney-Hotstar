@@ -24,9 +24,3 @@ A responsive and visually appealing front-end clone of the Disney+ Hotstar strea
 ---
 
 ## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/RakshaSonawane/disney-hotstar-clone.git
-cd disney-hotstar-clone
